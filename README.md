@@ -54,6 +54,6 @@ The analysis provided a comprehensive understanding of the e-commerce sales data
 
 ## 📧 Contact
 For any inquiries or questions, feel free to reach out:
-- **Name**: [Nidhi]
+- **Name**: Nidhi Haldkar
 - **LinkedIn**: [https://www.linkedin.com/in/nidhi-haldkar/](https://www.linkedin.com/in/nidhi-haldkar)
 - **Email**: [nidhi2002haldkar@gmail.com](mailto:nidhi2002haldkar@gmail.com)
