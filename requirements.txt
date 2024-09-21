@@ -1,0 +1,8 @@
+
+pandas==1.3.5
+matplotlib==3.5.1
+seaborn==0.11.2
+plotly==5.5.0
+sqlalchemy==1.4.32
+jupyterlab==3.2.9  # Assuming the analysis was done in Jupyter Notebook
+psycopg2-binary==2.9.3  # Required for PostgreSQL connection
